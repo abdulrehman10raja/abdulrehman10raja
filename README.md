@@ -171,7 +171,7 @@ AI-powered quiz generation system with a cyberpunk terminal UI. Generates contex
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdulrehman10raja&theme=tokyonight&no-frame=true&column=4&margin-w=15" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehman10raja&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
