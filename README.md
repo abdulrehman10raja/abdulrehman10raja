@@ -167,11 +167,15 @@ AI-powered quiz generation system with a cyberpunk terminal UI. Generates contex
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehman10raja&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits](https://img.shields.io/badge/Total%20Commits-19-00d4ff?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-5-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![Language](https://img.shields.io/badge/Top%20Language-Python-ff6b35?style=for-the-badge&logo=python&logoColor=white)
+![Internship](https://img.shields.io/badge/Internship-Prime%20Innovators-00d4ff?style=for-the-badge&logo=white)
+![Week](https://img.shields.io/badge/Internship%20Week-1%20Complete-7c3aed?style=for-the-badge&logoColor=white)
 
 </div>
 
