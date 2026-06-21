@@ -152,7 +152,7 @@ AI-powered quiz generation system with a cyberpunk terminal UI. Generates contex
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulrehman10raja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulrehman10raja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman10raja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
 
 <br/>
@@ -171,7 +171,7 @@ AI-powered quiz generation system with a cyberpunk terminal UI. Generates contex
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehman10raja&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehman10raja&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
