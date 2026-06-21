@@ -171,7 +171,7 @@ AI-powered quiz generation system with a cyberpunk terminal UI. Generates contex
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehman10raja&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=abdulrehman10raja&theme=tokyonight&no-frame=true&column=4&margin-w=15" />
 
 </div>
 
@@ -181,7 +181,11 @@ AI-powered quiz generation system with a cyberpunk terminal UI. Generates contex
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/abdulrehman10raja/abdulrehman10raja/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrehman10raja/abdulrehman10raja/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrehman10raja/abdulrehman10raja/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulrehman10raja/abdulrehman10raja/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
